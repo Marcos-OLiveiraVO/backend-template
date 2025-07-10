@@ -1,6 +1,6 @@
 ## Description
 
-Esse é um template criado para ser o "padrão" de todo projeto back end da infinity, ele segue alguns conceitos de `Domain Drive Design` junto com `clean architecture`, possui uma CLI(em desenvolvimento), que permite a criação de forma automatizada de um modulo.
+Esse é um template criado para ser o "padrão" de todo projeto back end pessoal, ele segue alguns conceitos de `Domain Drive Design` junto com `clean architecture`, possui uma CLI(em desenvolvimento), que permite a criação de forma automatizada de um modulo.
 
 ## Tecnologias Utilizadas
 
